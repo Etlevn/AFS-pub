@@ -1,0 +1,9 @@
+AFS
+
+This project is derived from TradingAgents by TauricResearch:
+https://github.com/TauricResearch/TradingAgents
+
+The upstream Apache License 2.0 is reproduced in LICENSE.
+AFS modifies the original project to provide non-interactive concurrent batch
+research, mode-specific single-agent graphs, structured reports, provider
+adapters, and publication-safe example configuration.
